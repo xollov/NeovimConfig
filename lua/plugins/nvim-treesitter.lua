@@ -50,7 +50,7 @@ return {
             "yaml",
         },
         incremental_selection = {
-            enable = true,
+            enable = false,
             keymaps = {
                 init_selection = "<C-space>",
                 node_incremental = "<C-space>",
